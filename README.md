@@ -1,4 +1,4 @@
 - 👋 Oi oi, meu nome é Nathaly;
 - 📖 Estudante do 1° ano do ensino médio;
-- 🎂 tenho 15 anos;
+- 🎂 tenho 16 anos;
 - 🌱 estou aprendendo a programar em pensamento computacional.
